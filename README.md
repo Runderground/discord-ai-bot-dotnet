@@ -7,3 +7,5 @@ Dont forget to put the secrets.
 OPENROUNTER_KEY="Your Api OpenRouter Key"
 BOT_TOKEN="Your bot Token"
 ```
+
+Apenas para testes.
