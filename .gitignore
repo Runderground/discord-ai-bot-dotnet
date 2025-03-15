@@ -1,0 +1,6 @@
+.replit
+replit.nix
+bin/
+obj/
+out/
+generated-icon.png
